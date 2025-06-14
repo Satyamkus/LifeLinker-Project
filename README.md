@@ -21,4 +21,4 @@
 
 Here’s a preview of the LifeLinker UI:
 
-![LifeLinker Screenshot](src/screenshots/Screenshot (672).png)
+![LifeLinker Screenshot](https://github.com/Satyamkus/LifeLinker-Project/blob/main/src/screenshots/Screenshot%20(672).png)
