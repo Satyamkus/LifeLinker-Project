@@ -22,3 +22,9 @@
 Here’s a preview of the LifeLinker UI:
 
 ![LifeLinker Screenshot](https://github.com/Satyamkus/LifeLinker-Project/blob/main/src/screenshots/Screenshot%20(672).png)
+![LifeLinker Screenshot](https://github.com/Satyamkus/LifeLinker-Project/blob/main/src/screenshots/Screenshot%20(673).png)
+
+**Mobile View
+![LifeLinker Screenshot](https://github.com/Satyamkus/LifeLinker-Project/blob/main/src/screenshots/Screenshot%20(674).png)
+![LifeLinker Screenshot](https://github.com/Satyamkus/LifeLinker-Project/blob/main/src/screenshots/Screenshot%20(675).png)
+
