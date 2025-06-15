@@ -17,6 +17,7 @@
 - **JavaScript (ES6)** – Logic and dynamic behavior
 - **Bootstrap 5** – Layout and prebuilt UI components
 
+
 ## 🖼️ Screenshot
 
 Here’s a preview of the LifeLinker UI:
