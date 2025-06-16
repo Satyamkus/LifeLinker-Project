@@ -3,7 +3,7 @@
 **LifeLinker** is a responsive and interactive web application designed to streamline the process of managing, sharing, and linking life-related information. Built using modern front-end technologies, the project emphasizes clean design, intuitive user experience, and mobile-first responsiveness.
 
 ## See here 
-[Live](https://lifelinkersatyamkus.netlify.app)
+[Live](https://lifelinkersatyamkus.netlify.app) https://lifelinkersatyamkus.netlify.app
 
 
 
